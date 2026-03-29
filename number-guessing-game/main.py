@@ -93,10 +93,10 @@ else:
     print(f"\nPlayers with highest score ({max_score}):")
     for userId, data in users.items():
         if data['score'] == max_score:
-            print(f"• Name: {data['name']:<15} user_id: {userId:<12}")
+            print(f"  • Name: {data['name']:<15} user_id: {userId:<12}")
 
     print(f"\nAll players (playing order): ")
     s_no = 0
     for userId, data in users.items():
         s_no += 1
-        print(f"{s_no:>3}  Name: {data['name']:<15} user_id: {userId:<15} Score: {data['score']}")
+        print(f"{s_no:>2}. Name: {data['name']:<15} user_id: {userId:<15} Score: {data['score']}")
