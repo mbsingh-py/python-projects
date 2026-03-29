@@ -99,4 +99,4 @@ else:
     s_no = 0
     for userId, data in users.items():
         s_no += 1
-        print(f"{s_no:>3}Name: {data['name']:<15} user_id: {userId:<15} Score: {data['score']}")
+        print(f"{s_no:>3}  Name: {data['name']:<15} user_id: {userId:<15} Score: {data['score']}")
