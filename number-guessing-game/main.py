@@ -1,6 +1,6 @@
 from random import randint
 low = 1   
-high = 5
+high = 100
 max_attempts = 20  # Attempts
 
 
