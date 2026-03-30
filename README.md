@@ -1,39 +1,42 @@
 # 🧠 Python Projects Collection
 
-This repository contains my Python projects built while learning programming and problem-solving.
+A collection of Python projects built while learning programming, problem-solving, and core development concepts.
 
 ---
 
 ## 📂 Projects
 
-### 🎯 Number Guessing Game
-A multi-player number guessing game with scoring system and input validation.
+### 🐍 01_Snake_Water_Gun_Game
+Command-line game against the computer with score tracking and multiple rounds.
 
-### 🐍 Snake Water Gun Game
-A command-line game where the user plays against the computer with score tracking.
+### 🎯 02_Number_Guessing_Game
+Multi-player guessing game with scoring, input validation, and attempts system.
+
+### 🛒 03_Kirana_Store_Calculator
+A billing system that simulates a real-world kirana store. It supports multiple items per customer, discount calculation, and tracks total daily sales.
 
 ---
 
-## 🚀 Skills Demonstrated
+## 🧠 Skills Practiced
 
-- Python fundamentals
-- Problem solving
-- Game logic development
-- Input validation
-- Data structures (dictionary)
+- Core Python fundamentals
+- Problem solving & logic building
+- Game development basics
+- Input validation & error handling
+- Data structures (dictionary, lists)
 - Code organization
 
 ---
 
-## 💡 Future Improvements
+## 🚀 Future Additions
 
-- Add leaderboard system
-- Save scores to file
-- Build GUI versions of games
-- Add more advanced projects
+- More advanced Python projects
+- File handling based projects
+- GUI-based applications
+- Data structure & algorithm implementations
 
 ---
 
 ## 📌 Note
 
-This repository is part of my learning journey in Python and software development.
+This repository will continue to grow as I build and improve projects over time.
