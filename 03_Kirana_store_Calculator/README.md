@@ -42,18 +42,6 @@ A simple Python-based billing system that simulates a real-world kirana (grocery
 
 ---
 
-## 🧾 Example Output
-
-*************** Items Purchased ***************
-S No.   Product name       Product ID         Price
-  1     Rice               p-ric12345         50
-  2     Milk               p-mil12346         30
-
-Marked price:              80
-Price after discount:      72
-
----
-
 ## 📊 Future Improvements
 
 - Add quantity support
