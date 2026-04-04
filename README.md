@@ -51,9 +51,3 @@ A command-line based student management system that performs full CRUD operation
 This repository will continue to grow as I build and improve projects over time.
 
 ---
-
----
-
-## 📌 Note
-
-This repository will continue to grow as I build and improve projects over time.
